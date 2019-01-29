@@ -38,5 +38,5 @@ video{
 
 ::cue(.Main) {
     text-shadow: black 3px 3px 0px;
-    
+    font: 2.5em serif;
 }
